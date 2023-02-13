@@ -1,0 +1,12 @@
+React Code:
+The code is written in React and it appears to be a functional component that fetches data from a REST API and displays it based on user input. 
+The component uses useState and useEffect hooks to manage its state and fetch the data, respectively.
+
+PHP Code:
+The PHP code is using the curl library to make a POST request to a REST API and return the response. 
+The API access key is stored in a constant API_ACCESS_KEY and the headers are set in an array $headers. 
+The code sets various options for the curl request and executes it, storing the result in the $result variable.
+
+Jest Test:
+The Jest test is written to test the SpaceXData component from the React code.
+ The test is checking if the search form is being rendered correctly and if the data is being fetched and displayed correctly on submit

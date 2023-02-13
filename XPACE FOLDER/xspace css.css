@@ -1,0 +1,20 @@
+[  
+    {    "id": 1,    
+        "name": "Falcon 1",   
+         "status": "active",   
+          "original_launch": "2006-03-24",  
+            "type": "rocket"  }, 
+             {   
+                 "id": 2,  
+                   "name": "Falcon 9",  
+                     "status": "active",  
+                       "original_launch": "2010-06-04", 
+                          "type": "rocket"  }, 
+                           {    
+                            "id": 3, 
+                               "name": "Falcon Heavy",  
+                                 "status": "active",  
+                                   "original_launch": "2018-02-06",   
+                                    "type": "rocket"  
+                                }
+                                ]
